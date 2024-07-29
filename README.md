@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chinnu-chandran?tab=repositories](https://github.com/chinnu-chandran?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/chinnu-chandran?tab=repositories)
 
 - 💬 Ask me about **Node js, Python**
 
-- 📫 How to reach me **chinnuchandran272@gmail.com**
+- 📫 How to reach me **[Email](chinnuchandran272@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
